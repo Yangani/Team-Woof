@@ -24,7 +24,7 @@ cityQuestApp.config(['$routeProvider',
                     routeDefinition]);
 cityQuestApp.config(function(uiGmapGoogleMapApiProvider) {
     uiGmapGoogleMapApiProvider.configure({
-        key: 'GOOGLE-MAPS-API-KEY',
+        key: 'AIzaSyAkb9wPX-QbDRLBiGkPwiGPaWWPpfCQZ3Y',
         v: '3.20',
         libraries: 'places,weather,geometry,visualization'
     });
